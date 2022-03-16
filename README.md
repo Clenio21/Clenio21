@@ -10,7 +10,7 @@
   <img align="center" alt="Clenio21-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Clenio21-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Clenio21-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/62/c9/3a/62c93a4cf6462f54fdea6d735d927f9c.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 </div>
 
 <div> 
